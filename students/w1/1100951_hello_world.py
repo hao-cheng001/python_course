@@ -3,4 +3,3 @@ def data_function(name,id):
 
 
 data_function("許皓程",1100951)
-print(123)
